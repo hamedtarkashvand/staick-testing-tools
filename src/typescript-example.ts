@@ -19,4 +19,6 @@ function getFullName(user: User): string {
 
 add(1, 2)
 
-getFullName({name: {first: "6d", middle: 'Bud', last: 'Matthews'}})
+getFullName({
+  name: {first: '6d', middle: 'Bud', last: 'Matthews'},
+})
