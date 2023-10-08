@@ -20,5 +20,5 @@ function getFullName(user: User): string {
 add(1, 2)
 
 getFullName({
-  name: {first: '6d', middle: 'Bud', last: 'Matthews'},
+  name: {first: 'hamed', middle: 'Bud', last: 'Matthews'},
 })
