@@ -25,7 +25,7 @@
             "extends": [
               "plugin:@typescript-eslint/eslint-recommended",
               "plugin:@typescript-eslint/recommended",
-              "plugin:eslint-config-prettier/@typescript-eslint"
+              "eslint-config-prettier"
             ]
         }
     ]
